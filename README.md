@@ -1,6 +1,6 @@
 # msbd5001
 
-Team name on kaggle: btcm
+Team name on kaggle: btcm /n
 programming language: Python3
 Required packages:
 
