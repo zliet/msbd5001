@@ -1,4 +1,4 @@
-# msbd5001
+# msbd5001_kaggle_competition
 
 # Team name on kaggle: 
 btcm 
